@@ -1,6 +1,6 @@
 h1. phpMoAdminPlus
 
-h2. phpMoAdminPlus is an enhanced version of phpMoAdmin that brings new functions and improvements in usability：
+    phpMoAdminPlus is an enhanced version of phpMoAdmin that brings new functions and improvements in usability：
 
     * Long-anticipated mongo host login and logout function
     * Flat UI based welcome page
