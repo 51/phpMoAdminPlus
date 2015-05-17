@@ -1,6 +1,20 @@
+h1. phpMoAdminPlus
+
+h2. phpMoAdminPlus is an enhanced version of phpMoAdmin that brings new functions and improvements in usability：
+
+    * Long-anticipated mongo host login and logout function
+    * Flat UI based welcome page
+    * Localization static files for the area where have difficult to access google libraries.
+    * Dockerfile is ready for fast deploy
+
+
+!http://tu.etang.info/uploads/2015/05/phpMoAdminPlus.png?t!:http://tu.etang.info/uploads/2015/05/phpMoAdminPlus.png
+
+    
 h1. phpMoAdmin
 
-h2. MongoDB administration tool for PHP
+h2. phpMoAdmin is a MongoDB administration tool for PHP
+
 
 h3. Built on a stripped-down version of the high-performance Vork Enterprise Framework
 
