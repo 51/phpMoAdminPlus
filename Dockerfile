@@ -26,7 +26,7 @@ RUN /usr/bin/easy_install supervisor-stdout
 ADD docker/supervisord.conf /etc/supervisord.conf
 
 # Install phpMoAdminPlus
-ADD src/* /usr/share/nginx/html/
+ADD src/ /usr/share/nginx/html
 RUN chown -R www-data:www-data /usr/share/nginx/html
 
 # Startup Script
